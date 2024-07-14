@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satwinder R. Jeerh, I'm Filipino
-- 👀 I’m interested in self-improvement, experimenting with programming languages (Java, Python, MySql), and creating various large projects.
+- 👀 I’m interested in improving myself, experimenting with programming languages (Java, Python, MySql), and creating various large projects.
 - 🌱 I’m currently studying Python and Java MySql, Object-Oriented Programming, GUI, basic Linux
 - 💞️ I’m looking to collaborate on midtier projects
 - 📫 How to reach me;
